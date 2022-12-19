@@ -1,5 +1,5 @@
 {  
-   "name": "julien-its/emails-queue-s6",
+   "name": "it-ideen-schmiede/emails-queue-s6",
    "type": "symfony-bundle",
    "description": "Symfony Easy Emails Queue Bundle for symfony 6",
    "keywords": [],
